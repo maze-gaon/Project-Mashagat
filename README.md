@@ -15,7 +15,7 @@ Copyright (c) माझं गावं 2019. All Rights Reserved.
 The MazeGaov application's code is licensed under the [BSD](LICENSE.txt) License.
 
 
-See our [Privacy Policy](http://jellow.org/privacypolicy/index.html).
+See our [Privacy Policy](privacy.html).
 
 
 Follow US
